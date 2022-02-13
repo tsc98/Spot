@@ -6,7 +6,7 @@ from bing_image_downloader import downloader
 def loader(query):
     downloader.download(query=str(query), limit=30, output_dir='/Users/Tom/PycharmProjects/Spot')
 
-path = '/Users/Tom/PycharmProjects/Spot/person, human'
+path = '/Users/Tom/PycharmProjects/Spot/images'
 files = os.listdir(path)
 
 def rename(cls):
