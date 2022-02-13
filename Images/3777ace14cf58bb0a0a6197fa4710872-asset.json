@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpeg",
+        "id": "3777ace14cf58bb0a0a6197fa4710872",
+        "name": "images-25%20copy.jpeg",
+        "path": "file:/Users/Tom/PycharmProjects/Spot/Images/images-25%20copy.jpeg",
+        "size": {
+            "width": 275,
+            "height": 183
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "lshvNvtei",
+            "type": "RECTANGLE",
+            "tags": [
+                "UAS"
+            ],
+            "boundingBox": {
+                "height": 112.59266144508538,
+                "width": 195.63846096042755,
+                "left": 40.42706799580955,
+                "top": 35.63420765011809
+            },
+            "points": [
+                {
+                    "x": 40.42706799580955,
+                    "y": 35.63420765011809
+                },
+                {
+                    "x": 236.06552895623713,
+                    "y": 35.63420765011809
+                },
+                {
+                    "x": 236.06552895623713,
+                    "y": 148.22686909520348
+                },
+                {
+                    "x": 40.42706799580955,
+                    "y": 148.22686909520348
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

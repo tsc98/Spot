@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpeg",
+        "id": "80b6214ba342c7b5365627c62f44effd",
+        "name": "images-108.jpeg",
+        "path": "file:/Users/Tom/PycharmProjects/Spot/Images/images-108.jpeg",
+        "size": {
+            "width": 259,
+            "height": 194
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "83GYdD0o2",
+            "type": "RECTANGLE",
+            "tags": [
+                "Aircraft"
+            ],
+            "boundingBox": {
+                "height": 141.552378967117,
+                "width": 208.39322973355667,
+                "left": 13.495635765870905,
+                "top": 3.74459826256618
+            },
+            "points": [
+                {
+                    "x": 13.495635765870905,
+                    "y": 3.74459826256618
+                },
+                {
+                    "x": 221.88886549942757,
+                    "y": 3.74459826256618
+                },
+                {
+                    "x": 221.88886549942757,
+                    "y": 145.2969772296832
+                },
+                {
+                    "x": 13.495635765870905,
+                    "y": 145.2969772296832
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

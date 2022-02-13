@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpeg",
+        "id": "8898918d4bf373676d80c8dd8c685cd4",
+        "name": "Unknown-65.jpeg",
+        "path": "file:/Users/Tom/PycharmProjects/Spot/Images/Unknown-65.jpeg",
+        "size": {
+            "width": 183,
+            "height": 275
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "BG9q-DCna",
+            "type": "RECTANGLE",
+            "tags": [
+                "Person"
+            ],
+            "boundingBox": {
+                "height": 267.4817956012228,
+                "width": 134.80139474396657,
+                "left": 26.122142346070543,
+                "top": 7.518204398777174
+            },
+            "points": [
+                {
+                    "x": 26.122142346070543,
+                    "y": 7.518204398777174
+                },
+                {
+                    "x": 160.92353709003712,
+                    "y": 7.518204398777174
+                },
+                {
+                    "x": 160.92353709003712,
+                    "y": 275
+                },
+                {
+                    "x": 26.122142346070543,
+                    "y": 275
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpeg",
+        "id": "90ac6708e2a7ac0a5d95e3c6e537ecfd",
+        "name": "Unknown%20copy%202.jpeg",
+        "path": "file:/Users/Tom/PycharmProjects/Spot/Images/Unknown%20copy%202.jpeg",
+        "size": {
+            "width": 275,
+            "height": 183
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "YD370kL_s",
+            "type": "RECTANGLE",
+            "tags": [
+                "UAS"
+            ],
+            "boundingBox": {
+                "height": 128.42643319063407,
+                "width": 212.45663763937938,
+                "left": 31.702253816051506,
+                "top": 17.48986972542696
+            },
+            "points": [
+                {
+                    "x": 31.702253816051506,
+                    "y": 17.48986972542696
+                },
+                {
+                    "x": 244.15889145543088,
+                    "y": 17.48986972542696
+                },
+                {
+                    "x": 244.15889145543088,
+                    "y": 145.91630291606103
+                },
+                {
+                    "x": 31.702253816051506,
+                    "y": 145.91630291606103
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

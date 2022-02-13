@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpeg",
+        "id": "4f4e2871731bffd0c712831017febf22",
+        "name": "Unknown-73.jpeg",
+        "path": "file:/Users/Tom/PycharmProjects/Spot/Images/Unknown-73.jpeg",
+        "size": {
+            "width": 300,
+            "height": 168
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "CXGBLn6Ys",
+            "type": "RECTANGLE",
+            "tags": [
+                "Car"
+            ],
+            "boundingBox": {
+                "height": 101.54868244993094,
+                "width": 190.62529289316467,
+                "left": 15.825329476465752,
+                "top": 53.970293076657455
+            },
+            "points": [
+                {
+                    "x": 15.825329476465752,
+                    "y": 53.970293076657455
+                },
+                {
+                    "x": 206.45062236963042,
+                    "y": 53.970293076657455
+                },
+                {
+                    "x": 206.45062236963042,
+                    "y": 155.51897552658838
+                },
+                {
+                    "x": 15.825329476465752,
+                    "y": 155.51897552658838
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

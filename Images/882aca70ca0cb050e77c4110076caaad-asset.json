@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpeg",
+        "id": "882aca70ca0cb050e77c4110076caaad",
+        "name": "images-149%20copy.jpeg",
+        "path": "file:/Users/Tom/PycharmProjects/Spot/Images/images-149%20copy.jpeg",
+        "size": {
+            "width": 299,
+            "height": 168
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "z53H-MnSi",
+            "type": "RECTANGLE",
+            "tags": [
+                "UAS"
+            ],
+            "boundingBox": {
+                "height": 97.81843925924862,
+                "width": 242.72220661175137,
+                "left": 22.952715988867787,
+                "top": 46.94117647058824
+            },
+            "points": [
+                {
+                    "x": 22.952715988867787,
+                    "y": 46.94117647058824
+                },
+                {
+                    "x": 265.6749226006192,
+                    "y": 46.94117647058824
+                },
+                {
+                    "x": 265.6749226006192,
+                    "y": 144.75961572983687
+                },
+                {
+                    "x": 22.952715988867787,
+                    "y": 144.75961572983687
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

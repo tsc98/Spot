@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpeg",
+        "id": "b2c7012e52d707e24a38746e267f8728",
+        "name": "images-115%20copy.jpeg",
+        "path": "file:/Users/Tom/PycharmProjects/Spot/Images/images-115%20copy.jpeg",
+        "size": {
+            "width": 275,
+            "height": 183
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "LyGa_npEO",
+            "type": "RECTANGLE",
+            "tags": [
+                "UAS"
+            ],
+            "boundingBox": {
+                "height": 72.66229134493095,
+                "width": 266.2899265348358,
+                "left": 8.710073465164232,
+                "top": 49.70836068086846
+            },
+            "points": [
+                {
+                    "x": 8.710073465164232,
+                    "y": 49.70836068086846
+                },
+                {
+                    "x": 275,
+                    "y": 49.70836068086846
+                },
+                {
+                    "x": 275,
+                    "y": 122.37065202579942
+                },
+                {
+                    "x": 8.710073465164232,
+                    "y": 122.37065202579942
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

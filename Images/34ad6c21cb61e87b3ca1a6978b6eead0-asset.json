@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpeg",
+        "id": "34ad6c21cb61e87b3ca1a6978b6eead0",
+        "name": "Unknown-50.jpeg",
+        "path": "file:/Users/Tom/PycharmProjects/Spot/Images/Unknown-50.jpeg",
+        "size": {
+            "width": 183,
+            "height": 275
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "x966o2loo",
+            "type": "RECTANGLE",
+            "tags": [
+                "Person"
+            ],
+            "boundingBox": {
+                "height": 232.78931880342788,
+                "width": 92.48821840191832,
+                "left": 44.16475878422803,
+                "top": 33.07535475578861
+            },
+            "points": [
+                {
+                    "x": 44.16475878422803,
+                    "y": 33.07535475578861
+                },
+                {
+                    "x": 136.65297718614636,
+                    "y": 33.07535475578861
+                },
+                {
+                    "x": 136.65297718614636,
+                    "y": 265.8646735592165
+                },
+                {
+                    "x": 44.16475878422803,
+                    "y": 265.8646735592165
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpeg",
+        "id": "f039ee1cc9ba0b83b066e635b7f13bac",
+        "name": "images-4%20copy.jpeg",
+        "path": "file:/Users/Tom/PycharmProjects/Spot/Images/images-4%20copy.jpeg",
+        "size": {
+            "width": 290,
+            "height": 174
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "qhYFrOils",
+            "type": "RECTANGLE",
+            "tags": [
+                "UAS"
+            ],
+            "boundingBox": {
+                "height": 117.42687099794799,
+                "width": 289.467723733232,
+                "left": 0.304653465213078,
+                "top": 18.479171946078914
+            },
+            "points": [
+                {
+                    "x": 0.304653465213078,
+                    "y": 18.479171946078914
+                },
+                {
+                    "x": 289.77237719844504,
+                    "y": 18.479171946078914
+                },
+                {
+                    "x": 289.77237719844504,
+                    "y": 135.9060429440269
+                },
+                {
+                    "x": 0.304653465213078,
+                    "y": 135.9060429440269
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

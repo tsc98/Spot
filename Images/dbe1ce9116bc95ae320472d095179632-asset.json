@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpeg",
+        "id": "dbe1ce9116bc95ae320472d095179632",
+        "name": "Unknown-9%20copy.jpeg",
+        "path": "file:/Users/Tom/PycharmProjects/Spot/Images/Unknown-9%20copy.jpeg",
+        "size": {
+            "width": 259,
+            "height": 194
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "u-2-zdfsg",
+            "type": "RECTANGLE",
+            "tags": [
+                "UAS"
+            ],
+            "boundingBox": {
+                "height": 160.97562187762298,
+                "width": 172.46259691299423,
+                "left": 25.61236099857295,
+                "top": 16.75204110473969
+            },
+            "points": [
+                {
+                    "x": 25.61236099857295,
+                    "y": 16.75204110473969
+                },
+                {
+                    "x": 198.0749579115672,
+                    "y": 16.75204110473969
+                },
+                {
+                    "x": 198.0749579115672,
+                    "y": 177.7276629823627
+                },
+                {
+                    "x": 25.61236099857295,
+                    "y": 177.7276629823627
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

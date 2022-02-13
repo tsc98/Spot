@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpeg",
+        "id": "b8558b7a7e5f9bfdde6624e15bf92cfa",
+        "name": "Unknown-2%20copy.jpeg",
+        "path": "file:/Users/Tom/PycharmProjects/Spot/Images/Unknown-2%20copy.jpeg",
+        "size": {
+            "width": 225,
+            "height": 225
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "f1s5KTc7D",
+            "type": "RECTANGLE",
+            "tags": [
+                "UAS"
+            ],
+            "boundingBox": {
+                "height": 78.03426750092639,
+                "width": 205.7428231823586,
+                "left": 8.662969415838068,
+                "top": 73.68864278077137
+            },
+            "points": [
+                {
+                    "x": 8.662969415838068,
+                    "y": 73.68864278077137
+                },
+                {
+                    "x": 214.40579259819665,
+                    "y": 73.68864278077137
+                },
+                {
+                    "x": 214.40579259819665,
+                    "y": 151.72291028169775
+                },
+                {
+                    "x": 8.662969415838068,
+                    "y": 151.72291028169775
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

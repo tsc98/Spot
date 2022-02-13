@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpeg",
+        "id": "5d041d002cb487d4fdb709fdefaef992",
+        "name": "Unknown-28.jpeg",
+        "path": "file:/Users/Tom/PycharmProjects/Spot/Images/Unknown-28.jpeg",
+        "size": {
+            "width": 275,
+            "height": 183
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "Lcd69DV4Y",
+            "type": "RECTANGLE",
+            "tags": [
+                "Aircraft"
+            ],
+            "boundingBox": {
+                "height": 136.5179679309979,
+                "width": 257.47869209057046,
+                "left": 10.022356018455717,
+                "top": 33.322726411179616
+            },
+            "points": [
+                {
+                    "x": 10.022356018455717,
+                    "y": 33.322726411179616
+                },
+                {
+                    "x": 267.50104810902616,
+                    "y": 33.322726411179616
+                },
+                {
+                    "x": 267.50104810902616,
+                    "y": 169.84069434217753
+                },
+                {
+                    "x": 10.022356018455717,
+                    "y": 169.84069434217753
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpeg",
+        "id": "08576b4740bec6b93b5fab088ac4ee05",
+        "name": "images-159%20copy.jpeg",
+        "path": "file:/Users/Tom/PycharmProjects/Spot/Images/images-159%20copy.jpeg",
+        "size": {
+            "width": 275,
+            "height": 183
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "rt_T61uzt",
+            "type": "RECTANGLE",
+            "tags": [
+                "UAS"
+            ],
+            "boundingBox": {
+                "height": 131.5128161053325,
+                "width": 205.45439980962576,
+                "left": 40.52433765832608,
+                "top": 34.28393568881722
+            },
+            "points": [
+                {
+                    "x": 40.52433765832608,
+                    "y": 34.28393568881722
+                },
+                {
+                    "x": 245.97873746795185,
+                    "y": 34.28393568881722
+                },
+                {
+                    "x": 245.97873746795185,
+                    "y": 165.79675179414969
+                },
+                {
+                    "x": 40.52433765832608,
+                    "y": 165.79675179414969
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

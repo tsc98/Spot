@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpeg",
+        "id": "f7b502fa8ec6c869b01ece67522f0909",
+        "name": "Unknown.jpeg",
+        "path": "file:/Users/Tom/PycharmProjects/Spot/Images/Unknown.jpeg",
+        "size": {
+            "width": 277,
+            "height": 182
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "SiHig55Wj",
+            "type": "RECTANGLE",
+            "tags": [
+                "UGV"
+            ],
+            "boundingBox": {
+                "height": 71.66009521484375,
+                "width": 145.05861056773657,
+                "left": 78.98184308031395,
+                "top": 81.02208600725446
+            },
+            "points": [
+                {
+                    "x": 78.98184308031395,
+                    "y": 81.02208600725446
+                },
+                {
+                    "x": 224.04045364805052,
+                    "y": 81.02208600725446
+                },
+                {
+                    "x": 224.04045364805052,
+                    "y": 152.6821812220982
+                },
+                {
+                    "x": 78.98184308031395,
+                    "y": 152.6821812220982
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

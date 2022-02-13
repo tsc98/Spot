@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpeg",
+        "id": "196e8d2341c268c3a6c1a27f3eac9a72",
+        "name": "Unknown-35.jpeg",
+        "path": "file:/Users/Tom/PycharmProjects/Spot/Images/Unknown-35.jpeg",
+        "size": {
+            "width": 299,
+            "height": 169
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "WDqAU8YkF",
+            "type": "RECTANGLE",
+            "tags": [
+                "Aircraft"
+            ],
+            "boundingBox": {
+                "height": 119.05306789648793,
+                "width": 253.6028988486842,
+                "left": 45.39710115131579,
+                "top": 22.015727189335507
+            },
+            "points": [
+                {
+                    "x": 45.39710115131579,
+                    "y": 22.015727189335507
+                },
+                {
+                    "x": 299,
+                    "y": 22.015727189335507
+                },
+                {
+                    "x": 299,
+                    "y": 141.06879508582344
+                },
+                {
+                    "x": 45.39710115131579,
+                    "y": 141.06879508582344
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

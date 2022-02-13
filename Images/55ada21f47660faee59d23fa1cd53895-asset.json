@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpeg",
+        "id": "55ada21f47660faee59d23fa1cd53895",
+        "name": "images-169.jpeg",
+        "path": "file:/Users/Tom/PycharmProjects/Spot/Images/images-169.jpeg",
+        "size": {
+            "width": 377,
+            "height": 134
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "cB5qYy-fC",
+            "type": "RECTANGLE",
+            "tags": [
+                "Car"
+            ],
+            "boundingBox": {
+                "height": 115.49438263649165,
+                "width": 347.50178060147783,
+                "left": 22.128099187608843,
+                "top": 9.000124554301419
+            },
+            "points": [
+                {
+                    "x": 22.128099187608843,
+                    "y": 9.000124554301419
+                },
+                {
+                    "x": 369.6298797890867,
+                    "y": 9.000124554301419
+                },
+                {
+                    "x": 369.6298797890867,
+                    "y": 124.49450719079307
+                },
+                {
+                    "x": 22.128099187608843,
+                    "y": 124.49450719079307
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

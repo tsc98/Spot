@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpeg",
+        "id": "ba0c85b6162afe35c7a2a16f2022f518",
+        "name": "images-44.jpeg",
+        "path": "file:/Users/Tom/PycharmProjects/Spot/Images/images-44.jpeg",
+        "size": {
+            "width": 247,
+            "height": 204
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "oDvOrnam-",
+            "type": "RECTANGLE",
+            "tags": [
+                "UGV"
+            ],
+            "boundingBox": {
+                "height": 140.77944663538338,
+                "width": 221.09737678735846,
+                "left": 6.816197860838556,
+                "top": 40.87393529727436
+            },
+            "points": [
+                {
+                    "x": 6.816197860838556,
+                    "y": 40.87393529727436
+                },
+                {
+                    "x": 227.91357464819703,
+                    "y": 40.87393529727436
+                },
+                {
+                    "x": 227.91357464819703,
+                    "y": 181.65338193265774
+                },
+                {
+                    "x": 6.816197860838556,
+                    "y": 181.65338193265774
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

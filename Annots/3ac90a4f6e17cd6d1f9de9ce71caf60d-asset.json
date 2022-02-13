@@ -1,0 +1,49 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "3ac90a4f6e17cd6d1f9de9ce71caf60d",
+        "name": "UGV-Image.jpg",
+        "path": "file:/Users/Tom/PycharmProjects/Spot/Images/UGV-Image.jpg",
+        "size": {
+            "width": 1232,
+            "height": 600
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "6fjFeA2yY",
+            "type": "RECTANGLE",
+            "tags": [
+                "UGV",
+                "UAS"
+            ],
+            "boundingBox": {
+                "height": 461.5278082378839,
+                "width": 726.240770778912,
+                "left": 30.250457291263547,
+                "top": 85.16949152542372
+            },
+            "points": [
+                {
+                    "x": 30.250457291263547,
+                    "y": 85.16949152542372
+                },
+                {
+                    "x": 756.4912280701755,
+                    "y": 85.16949152542372
+                },
+                {
+                    "x": 756.4912280701755,
+                    "y": 546.6972997633077
+                },
+                {
+                    "x": 30.250457291263547,
+                    "y": 546.6972997633077
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

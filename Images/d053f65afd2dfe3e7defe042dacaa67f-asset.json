@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "d053f65afd2dfe3e7defe042dacaa67f",
+        "name": "mission-master-xt-main.jpg",
+        "path": "file:/Users/Tom/PycharmProjects/Spot/Images/mission-master-xt-main.jpg",
+        "size": {
+            "width": 500,
+            "height": 400
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "x1j2IUvqW",
+            "type": "RECTANGLE",
+            "tags": [
+                "UGV"
+            ],
+            "boundingBox": {
+                "height": 231.03286044412275,
+                "width": 327.1432645885461,
+                "left": 65.9878680409524,
+                "top": 135.9842351196419
+            },
+            "points": [
+                {
+                    "x": 65.9878680409524,
+                    "y": 135.9842351196419
+                },
+                {
+                    "x": 393.1311326294985,
+                    "y": 135.9842351196419
+                },
+                {
+                    "x": 393.1311326294985,
+                    "y": 367.01709556376466
+                },
+                {
+                    "x": 65.9878680409524,
+                    "y": 367.01709556376466
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

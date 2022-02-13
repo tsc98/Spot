@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpeg",
+        "id": "5e07ee9aafe7b5ec9e585a9273a1a0ee",
+        "name": "images-139.jpeg",
+        "path": "file:/Users/Tom/PycharmProjects/Spot/Images/images-139.jpeg",
+        "size": {
+            "width": 275,
+            "height": 183
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "dD16xb3lZ",
+            "type": "RECTANGLE",
+            "tags": [
+                "Person"
+            ],
+            "boundingBox": {
+                "height": 144.2453469919604,
+                "width": 111.28759708936,
+                "left": 84.28783908840057,
+                "top": 38.13325152729833
+            },
+            "points": [
+                {
+                    "x": 84.28783908840057,
+                    "y": 38.13325152729833
+                },
+                {
+                    "x": 195.5754361777606,
+                    "y": 38.13325152729833
+                },
+                {
+                    "x": 195.5754361777606,
+                    "y": 182.3785985192587
+                },
+                {
+                    "x": 84.28783908840057,
+                    "y": 182.3785985192587
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
